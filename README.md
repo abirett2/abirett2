@@ -2,7 +2,7 @@
 
 ## You Know Me?
 
-<p align="left"> <a href="https://github.com/abirett2"><img src="https://komarev.com/ghpvc/?username=abirett2&label=Profile%20views&color=0e75b6&style=flat" alt="Abirett2" /></a> </p>
+<p align="left"> <a href="https://github.com/abirett"><img src="https://komarev.com/ghpvc/?username=abirett&label=Profile%20views&color=0e75b6&style=flat" alt="Abirett" /></a> </p>
 
 <details>
   <summary>GitHub Stats</summary>
