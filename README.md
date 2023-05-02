@@ -10,7 +10,7 @@
 
 </details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abirett2&show_icons=true&locale=en" alt="Abirett2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abirett&show_icons=true&locale=en" alt="Abirett" /></p>
 
 <details>
     <summary>Top Languages</summary>
