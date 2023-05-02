@@ -2,7 +2,6 @@
 
 ## You Know Me?
 
-<p align="left"> <a href="https://github.com/abirett2"><img src="https://komarev.com/ghpvc/?username=abirett2&label=Profile%20views&color=0e75b6&style=flat" alt="Abirett2" /></a> </p>
 
 <details>
   <summary>GitHub Stats</summary>
@@ -57,23 +56,6 @@
 </details>
 
 
- 
-
-### Contribution Graph:
-
-<p align="center">
-  <a href="https://github.com/abirett2">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirett2#version3"/>
-  </a>
-</p>
-<a href="https://github.com/abirett2"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abirett2&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<details>
-  <summary>Activity Metrics</summary>
-  <br/>
-<p align="left"> <a href="https://github.com/abirett2"><img src="https://metrics.lecoq.io/abirett2?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="Abirett2" /></a> </p>
-
-</details>
 
 ### Follow on:
 [![Ashfaque Hossain Abir](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
