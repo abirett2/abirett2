@@ -2,6 +2,7 @@
 
 ## You Know Me?
 
+<p align="left"> <a href="https://github.com/abirett2"><img src="https://komarev.com/ghpvc/?username=abirett2&label=Profile%20views&color=0e75b6&style=flat" alt="Abirett2" /></a> </p>
 
 <details>
   <summary>GitHub Stats</summary>
@@ -9,6 +10,8 @@
 <p align="left"> <a href="https://github.com/abirett2"><img src="https://github-profile-trophy.vercel.app/?username=abirett2" alt="Abirett2" /></a> </p>
 
 </details>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abirett2&show_icons=true&locale=en" alt="Abirett2" /></p>
 
 <details>
     <summary>Top Languages</summary>
